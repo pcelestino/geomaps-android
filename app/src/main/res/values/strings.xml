@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geomaps</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="API_KEY">AIzaSyARFc6IlQTTQx2beVZe9c9YkvwHCG4uCeM</string>
+    <string name="favorite_title">Título</string>
+    <string name="favorite_description">Descrição</string>
+    <string name="leave">Sair</string>
+    <string name="save">Salvar</string>
+    <string name="flag_image_description">Marcador de favoritos</string>
+    <string name="button_delete_fav">Botão para remoção do favorito</string>
+    <string name="action_exit">Sair</string>
+
+</resources>
